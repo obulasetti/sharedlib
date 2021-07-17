@@ -1,6 +1,6 @@
-def sum (inta,intb){
+def call(a,b){
   print "sum is" +(a+b)
 }
-sum (20,30)
+
   
             
