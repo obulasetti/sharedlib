@@ -1,4 +1,6 @@
-def add(x,y){
-  echo "sum of "${20}" and "${30}" is $(x+y)"
+def sum (inta,intb){
+  print "sum is" +(a+b)
 }
+sum (20,30)
+  
             
