@@ -1,4 +1,4 @@
-def sum (inta,intb){
-  print "sum is" +(a+b)
+def add(x,y){
+  echo "sum of $(x) and $(y) is $ (x+y)"
 }
-sum (20,30)
+            
